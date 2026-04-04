@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data files (IMPORTANT: Do not push huge CSVs to GitHub)
+*.csv
+raw_data/
+*.txt
+
+
+# Streamlit
+.streamlit/
